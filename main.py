@@ -190,4 +190,4 @@ async def generate_invite(guild_id):
     invite = await guild.text_channels[0].create_invite()
     return invite
 
-client.run("XD")
+client.run("MTQ5NzgxNzc5NjQyNjYwMDU2OA.GT2n8Z.loGkI_r9hFUD0TNgP_zqxTuIsdyOOrBCfmLPqY")
